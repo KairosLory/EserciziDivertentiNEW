@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/Esercizio1/">
+    <Project Path="../EserciziDivertenti_Esercizio1/EserciziDivertenti_Esercizio1.csproj" Id="9e07749b-7f90-447f-9b89-415400fa7864" />
+  </Folder>
   <Project Path="EserciziDivertenti.csproj" />
 </Solution>
